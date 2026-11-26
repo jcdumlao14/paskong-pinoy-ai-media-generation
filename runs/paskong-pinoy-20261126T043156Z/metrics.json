@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "project": "Paskong Pinoy: A Visual Celebration of Christmas in the Philippines",
+  "run_id": "paskong-pinoy-20261126T043156Z",
+  "started_utc": "2026-11-26T04:31:56.326748+00:00",
+  "finished_utc": "2026-11-26T04:37:29.451665+00:00",
+  "mode": "nebius_serverless_endpoint",
+  "startup_s": 300.0,
+  "ready_wait_s": 0.9459467999986373,
+  "load_s": 48.8,
+  "latency_s": [
+    7.621198399996501,
+    8.830291399994167,
+    4.2725339000026,
+    6.867859999998473,
+    9.532794200000353,
+    9.810849500005133,
+    4.538729400010197,
+    9.60327619999589,
+    4.326427100008004,
+    9.658691399992676
+  ],
+  "total_generation_wall_s": 75.2070750999992,
+  "billable_s": null,
+  "billing_basis": "Check actual provider usage; endpoint billing interval must be verified.",
+  "config": {
+    "project": "Paskong Pinoy: A Visual Celebration of Christmas in the Philippines",
+    "model": "Efficient-Large-Model/Sana_1600M_1024px_diffusers",
+    "model_revision": "ac0da2ff55fbe434795be0dce883042e4d49e2fc",
+    "gpu": "L40S",
+    "image_size": "1024x1024",
+    "num_inference_steps": 20,
+    "guidance_scale": 4.5,
+    "first_seed": 7,
+    "image_count": 10,
+    "output_format": "PNG"
+  },
+  "assets": [
+    {
+      "id": 1,
+      "title": "The Filipino Parol",
+      "seed": 7,
+      "file": "01-the-filipino-parol.png",
+      "bytes": 1325200,
+      "sha256": "de652e9b4fc0faa87c298e14050803d93753a7c064f983c2caf0d37015ad27e0",
+      "api_latency_s": 7.621198399996501,
+      "wall_request_s": 7.631555200001458,
+      "status": "success"
+    },
+    {
+      "id": 2,
+      "title": "Paskong Barangay",
+      "seed": 8,
+      "file": "02-paskong-barangay.png",
+      "bytes": 1865219,
+      "sha256": "bcc15d63bea6ffb2ca93594aa2acb3ebbbe66f0aff518327eed7c74d4cbc56a9",
+      "api_latency_s": 8.830291399994167,
+      "wall_request_s": 8.83960420000949,
+      "status": "success"
+    },
+    {
+      "id": 3,
+      "title": "Simbang Gabi",
+      "seed": 9,
+      "file": "03-simbang-gabi.png",
+      "bytes": 1819855,
+      "sha256": "95bc4a533a3dfe44b4e45fd5dad97bde532cc53d21be38ad55155a13c7dfb13c",
+      "api_latency_s": 4.2725339000026,
+      "wall_request_s": 4.280253499993705,
+      "status": "success"
+    },
+    {
+      "id": 4,
+      "title": "Noche Buena",
+      "seed": 10,
+      "file": "04-noche-buena.png",
+      "bytes": 1507913,
+      "sha256": "0ba35c751b7e4b6075420f34cc7a482e27034c30d67de3966fa29d31deeb839c",
+      "api_latency_s": 6.867859999998473,
+      "wall_request_s": 6.878593600005843,
+      "status": "success"
+    },
+    {
+      "id": 5,
+      "title": "Filipino Christmas Delicacies",
+      "seed": 11,
+      "file": "05-filipino-christmas-delicacies.png",
+      "bytes": 1402591,
+      "sha256": "f442eb05872f61737005922193de57e03f225cd226a15f1a48a7f0990dacc4d5",
+      "api_latency_s": 9.532794200000353,
+      "wall_request_s": 9.543804700006149,
+      "status": "success"
+    },
+    {
+      "id": 6,
+      "title": "Giant Lantern Festival",
+      "seed": 12,
+      "file": "06-giant-lantern-festival.png",
+      "bytes": 1862392,
+      "sha256": "e6209a2ee2557560b64559c8262d1093c64c604119fa1d4dd0ef9011ccd8ce17",
+      "api_latency_s": 9.810849500005133,
+      "wall_request_s": 9.822951900001499,
+      "status": "success"
+    },
+    {
+      "id": 7,
+      "title": "Family Christmas Preparations",
+      "seed": 13,
+      "file": "07-family-christmas-preparations.png",
+      "bytes": 1556166,
+      "sha256": "5836f40f7073f645e3bd1d53148d535498a1c3678b780d2e60572208f8e5bbc3",
+      "api_latency_s": 4.538729400010197,
+      "wall_request_s": 4.5514328999997815,
+      "status": "success"
+    },
+    {
+      "id": 8,
+      "title": "Christmas Caroling",
+      "seed": 14,
+      "file": "08-christmas-caroling.png",
+      "bytes": 1395298,
+      "sha256": "a5281c925dd99e3f61056c390ffe852d75a9a671df951112b7a0e50d07bd32a4",
+      "api_latency_s": 9.60327619999589,
+      "wall_request_s": 9.615701799993985,
+      "status": "success"
+    },
+    {
+      "id": 9,
+      "title": "The Joy of Giving",
+      "seed": 15,
+      "file": "09-the-joy-of-giving.png",
+      "bytes": 1453439,
+      "sha256": "b99283f3c6e9ac5a1aa39389683682840397e2b19970ec07903f63d77f58b400",
+      "api_latency_s": 4.326427100008004,
+      "wall_request_s": 4.341167699996731,
+      "status": "success"
+    },
+    {
+      "id": 10,
+      "title": "A Filipino Christmas Night",
+      "seed": 16,
+      "file": "10-a-filipino-christmas-night.png",
+      "bytes": 1973780,
+      "sha256": "481531b2bb32fcb037f298eeed3db0e1ab184bfb6832a34cdcfdda813800a412",
+      "api_latency_s": 9.658691399992676,
+      "wall_request_s": 9.674164099997142,
+      "status": "success"
+    }
+  ],
+  "errors": [],
+  "status": "completed",
+  "cost_analysis": {
+    "gpu_rate_usd_per_hour": 0.65,
+    "assumption": "Fixed cost uses approximately 300 seconds of endpoint startup plus 48.8 seconds of service-reported model initialization and readiness. API polling wait is recorded separately.",
+    "calculation": {
+      "marginal_compute_usd": 0.0014852039402769353,
+      "fixed_run_usd": 0.06297777777777779,
+      "projected_compute_usd_per_asset": {
+        "1": 0.06446298171805472,
+        "10": 0.007782981718054714,
+        "100": 0.002114981718054713,
+        "1000": 0.0015481817180547132
+      },
+      "breakeven_assets": null
+    }
+  }
+}

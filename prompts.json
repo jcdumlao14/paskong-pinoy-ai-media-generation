@@ -1,0 +1,57 @@
+﻿{
+    "project":  "Paskong Pinoy: A Visual Celebration of Christmas in the Philippines",
+    "model":  "Efficient-Large-Model/Sana_1600M_1024px_diffusers",
+    "shared_style":  "Cinematic digital illustration, detailed realistic elements, warm golden lighting, rich festive colors, tropical Philippine surroundings, balanced composition, professional editorial quality. No text, captions, logos, or watermarks.",
+    "images":  [
+                   {
+                       "title":  "The Filipino Parol",
+                       "prompt":  "A magnificent, large traditional Filipino five-pointed star Christmas lantern called a parol, prominently displayed as the main subject. The parol has five clearly defined pointed rays, a brilliant glowing golden star at its center, colorful translucent panels in red, yellow, green and blue, intricate radial geometric patterns, delicate decorative tassels, and radiant warm light shining through the star. Hang it outside a traditional Filipino home at dusk, with a softly illuminated tropical Christmas setting in the background. Make the star shape bold, symmetrical, detailed and visually striking, like an iconic Filipino Christmas parol.",
+                       "id":  1
+                   },
+                   {
+                       "title":  "Paskong Barangay",
+                       "prompt":  "A lively Filipino barangay neighborhood decorated for Christmas, houses adorned with colorful parol lanterns and festive lights, welcoming streets and joyful community atmosphere.",
+                       "id":  2
+                   },
+                   {
+                       "title":  "Simbang Gabi",
+                       "prompt":  "A peaceful Simbang Gabi dawn scene outside a beautiful Philippine church, families arriving for the traditional early morning Christmas Mass, soft sunrise light and glowing lanterns.",
+                       "id":  3
+                   },
+                   {
+                       "title":  "Noche Buena",
+                       "prompt":  "A Filipino family gathered around a beautifully prepared Noche Buena Christmas Eve table, featuring traditional dishes, festive decorations and a warm family atmosphere.",
+                       "id":  4
+                   },
+                   {
+                       "title":  "Filipino Christmas Delicacies",
+                       "prompt":  "A close-up festive presentation of Filipino Christmas delicacies, including bibingka and puto bumbong, banana leaves, grated coconut and warm traditional holiday details.",
+                       "id":  5
+                   },
+                   {
+                       "title":  "Giant Lantern Festival",
+                       "prompt":  "A spectacular giant lantern festival inspired by San Fernando, Pampanga, featuring enormous illuminated Filipino Christmas lanterns with intricate geometric patterns and brilliant colors at night.",
+                       "id":  6
+                   },
+                   {
+                       "title":  "Family Christmas Preparations",
+                       "prompt":  "A Filipino family preparing their home for Christmas, decorating a Christmas tree, hanging parol lanterns and arranging festive decorations in a cozy tropical home.",
+                       "id":  7
+                   },
+                   {
+                       "title":  "Christmas Caroling",
+                       "prompt":  "A group of Filipino children joyfully singing Christmas carols in a neighborhood at night, holding simple handmade instruments, with glowing parol lanterns and warmly lit homes.",
+                       "id":  8
+                   },
+                   {
+                       "title":  "The Joy of Giving",
+                       "prompt":  "A heartfelt Filipino family Christmas gift-giving moment, family members exchanging wrapped presents, smiling together beside a decorated Christmas tree and colorful parol.",
+                       "id":  9
+                   },
+                   {
+                       "title":  "A Filipino Christmas Night",
+                       "prompt":  "A magical tropical Philippine Christmas evening, glowing parol lanterns hanging among palm trees, festive homes, a starry sky and warm lights illuminating the neighborhood.",
+                       "id":  10
+                   }
+               ]
+}
